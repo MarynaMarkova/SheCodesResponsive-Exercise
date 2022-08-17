@@ -1,0 +1,20 @@
+h1,
+p {
+  text-align: center;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+a {
+  display: grid;
+  justify-content: space-around;
+  color: darkolivegreen;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
