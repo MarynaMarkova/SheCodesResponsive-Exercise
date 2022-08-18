@@ -3,13 +3,23 @@ p {
   text-align: center;
 }
 
-body {
-  background-color: blanchedalmond;
+p {
+  font-size: larger;
 }
 
-a {
-  display: grid;
-  justify-content: space-around;
+body {
+  background-color: blanchedalmond;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  margin: 40px;
+}
+
+footer a {
+  margin: 20px;
   color: darkolivegreen;
 }
 
